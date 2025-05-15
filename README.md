@@ -1,6 +1,6 @@
 # 📊 NYC-Electric-Consumption-And-Cost-2010-2024
 The dataset used in this project is from NYC Open Data, which provides monthly electricity consumption and cost data across various boroughs and developments in New York City from 2010 to 2024. The dataset also includes utility vendor and meter information.
-- Dataset URL: https://data.cityofnewyork.us/Housing-Development/Electric-Consumption-And-Cost-2010-Feb-2025-/jr24-e7cr/about_data
+- Dataset URL: [https://data.cityofnewyork.us/Housing-Development/Electric-Consumption-And-Cost-2010-Feb-2025-/jr24-e7cr/about_data](https://data.cityofnewyork.us/Housing-Development/Electric-Consumption-And-Cost-2010-Feb-2025-/jr24-e7cr/about_data)
 
 
 ## 🧐 Research Question
