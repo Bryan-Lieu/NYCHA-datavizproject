@@ -11,18 +11,6 @@ The goal of this analysis is to understand the trends in electricity consumption
 ## Description of the Notebook
 ### In this Jupyter Notebook, the data was cleaned, transformed, and visualized to answer the research question. The steps followed include:
 
-#### - Data Cleaning:
-
-Removed unnecessary entries (e.g., FHA in the borough column).
-
-Filtered out rows with missing or erroneous data.
-
-Converted date columns to a standard format.
-
-#### - Data Aggregation:
-
-Aggregated the electricity consumption and costs by borough, month, and year to analyze pandemic trends.
-
 #### - Data Visualization:
 
 Line Chart: Visualizes the electricity costs over time, with a highlighted period regarding the pandemic and the annotated peaks and lowest point in costs. 
