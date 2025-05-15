@@ -21,7 +21,7 @@ Converted date columns to a standard format.
 
 #### - Data Aggregation:
 
-Aggregated the electricity consumption by borough, month, and year to analyze trends over time.
+Aggregated the electricity consumption and costs by borough, month, and year to analyze pandemic trends.
 
 #### - Data Visualization:
 
