@@ -1,14 +1,14 @@
-# 📊 NYC-Electric-Consumption-And-Cost-2010-2024
+# NYC-Electric-Consumption-And-Cost-2010-2024
 The dataset used in this project is from NYC Open Data, which provides monthly electricity consumption and cost data across various boroughs and developments in New York City from 2010 to 2024. The dataset also includes utility vendor and meter information.
 - Dataset URL: [https://data.cityofnewyork.us/Housing-Development/Electric-Consumption-And-Cost-2010-Feb-2025-/jr24-e7cr/about_data](https://data.cityofnewyork.us/Housing-Development/Electric-Consumption-And-Cost-2010-Feb-2025-/jr24-e7cr/about_data)
 
 
-## 🧐 Research Question
+## Research Question
 ### What kind of impact did the pandemic have on the electricity/energy consumption and costs for NYCHA properties?
 - Research Focus:
 The goal of this analysis is to understand the trends in electricity consumption and costs across the five boroughs of New York City over the various phases of the pandemic.
 
-## 💡 Description of the Notebook
+## Description of the Notebook
 ### In this Jupyter Notebook, the data was cleaned, transformed, and visualized to answer the research question. The steps followed include:
 
 #### - Data Cleaning:
