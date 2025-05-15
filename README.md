@@ -13,9 +13,11 @@ The goal of this analysis is to understand the trends in electricity consumption
 
 ## Data Visualization:
 
-Line Chart: Visualizes the electricity costs over time, with a highlighted period regarding the pandemic and the annotated peaks and lowest point in costs. 
+#### Line Chart: 
+- Visualizes the electricity costs over time, with a highlighted period regarding the pandemic and the annotated peaks and lowest point in costs. 
 
-Bar Charts: One bar chart is a faceted bar chart to compare the amount of energy consumed across all boroughs during various phases of the pandemic, such as pre-COVID/Before, during COVID, and post-COVID/After. The other bar chart depicts the change in the percentage of electricity consumption by borough across the period of COVID/the pandemic.
+##### Bar Charts: 
+- One bar chart is a faceted bar chart to compare the amount of energy consumed across all boroughs during various phases of the pandemic, such as pre-COVID/Before, during COVID, and post-COVID/After. The other bar chart depicts the change in the percentage of electricity consumption by borough across the period of COVID/the pandemic.
 
 
 
