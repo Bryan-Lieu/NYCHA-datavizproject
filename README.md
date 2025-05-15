@@ -11,7 +11,7 @@ The goal of this analysis is to understand the trends in electricity consumption
 ## Description of the Notebook
 ### In this Jupyter Notebook, the data was cleaned, transformed, and visualized to answer the research question. The steps followed include:
 
-#### - Data Visualization:
+## Data Visualization:
 
 Line Chart: Visualizes the electricity costs over time, with a highlighted period regarding the pandemic and the annotated peaks and lowest point in costs. 
 
